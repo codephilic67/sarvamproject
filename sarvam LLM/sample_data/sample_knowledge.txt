@@ -1,0 +1,21 @@
+# Solar Energy Storage Basics
+
+## Overview
+Solar energy storage systems capture electricity produced by photovoltaic panels
+and release it later when generation is low. The most common residential option
+is a lithium-ion battery bank paired with a hybrid inverter.
+
+## Capacity planning
+Battery capacity is measured in kilowatt-hours (kWh). A typical household that
+consumes 20 kWh per day may target 10 to 15 kWh of usable storage for evening
+coverage. Depth of discharge, round-trip efficiency, and temperature all affect
+usable capacity.
+
+## Safety notes
+Installations must follow local electrical codes. Battery rooms need ventilation
+and thermal monitoring. Never mix incompatible chemistries in the same bank.
+
+## Maintenance
+Inspect connections quarterly. Firmware updates for inverters should be applied
+only from the manufacturer channel. Replace cells that show abnormal voltage
+drift during monthly health checks.
